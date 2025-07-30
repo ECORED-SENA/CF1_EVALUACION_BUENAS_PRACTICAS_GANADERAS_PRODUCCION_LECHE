@@ -158,7 +158,7 @@
             .row(titulo="Resolución ICA 67449 de 2022").ajuste-cajaAcordion
               p.mb-3 Establece los requisitos sanitarios para la producción primaria de leche cruda destinada al consumo humano. Define condiciones mínimas en temas como sanidad del hato, calidad del agua, higiene en el ordeño, uso racional de medicamentos, bienestar animal, infraestructura, disposición de residuos y trazabilidad. Obliga a contar con un Plan de BPG documentado.
             .row(titulo="Resolución ICA 1382 de 2013").ajuste-cajaAcordion
-              p.mb-3  Reglamenta el procedimiento oficial de certificación en BPG para predios pecuarios. Establece las etapas de evaluación técnica y documental, los requisitos generales, y la vigencia de la certificación, la cual debe mantenerse mediante seguimiento y actualización del plan.
+              p.mb-3  Reglamenta el procedimiento oficial de certificación en BPG para predios pecuarios. Establece las etapas de evaluación técnica y documental, los requisitos generales y la vigencia de la certificación, la cual debe mantenerse mediante seguimiento y actualización del plan.
             .row(titulo="Resolución ICA 2021032339 de 2021").ajuste-cajaAcordion
               p.mb-3 Regula los criterios técnicos y administrativos para la certificación oficial de predios en BPG, tanto para producción de carne como de leche. Define las condiciones para emitir, mantener, renovar o suspender la certificación, según las características del sistema productivo evaluado.
             .row(titulo="Decreto 1500 de 2007").ajuste-cajaAcordion

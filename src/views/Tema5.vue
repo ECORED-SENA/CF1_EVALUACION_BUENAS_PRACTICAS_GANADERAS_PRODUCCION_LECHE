@@ -47,7 +47,7 @@
                 h4.mb-4 Productividad lechera
                 <ul class="fa-ul estilo___i mb-0">
                   <li class="mb-2"><span class="fa-li"><i class="fas fa-fill-drip"></i></span>Litros de leche por vaca/día.</li>
-                  <li class="mb-2"><span class="fa-li"><i class="fas fa-fill-drip"></i></span>Porcentaje de vacas en ordeño vs totales.</li>
+                  <li class="mb-2"><span class="fa-li"><i class="fas fa-fill-drip"></i></span>Porcentaje de vacas en ordeño vs. totales.</li>
                   <li class="mb-2"><span class="fa-li"><i class="fas fa-fill-drip"></i></span>Intervalo entre partos.</li>
                   <li class="mb-2"><span class="fa-li"><i class="fas fa-fill-drip"></i></span>Días abiertos.</li>
                   <li class="mb-0"><span class="fa-li"><i class="fas fa-fill-drip"></i></span>Porcentaje de descarte por baja producción.</li>
@@ -195,7 +195,7 @@
             figure.d-none.d-xl-block
               img(src='@/assets/curso/temas/img127.svg', alt="" style="max-width: 85px").m-auto
           .col-xl
-            p.mb-0 Un sistema que mide y documenta su desempeño puede demostrar su compromiso con la mejora continua, generar confianza en los actores de la cadena productiva y posicionarse como un modelo de producción lechera eficiente, responsable y certifica.
+            p.mb-0 Un sistema que mide y documenta su desempeño puede demostrar su compromiso con la mejora continua, generar confianza en los actores de la cadena productiva y posicionarse como un modelo de producción lechera eficiente, responsable y certificado.
 
     <!-- BLOQUE 4 -->
     Separador
@@ -215,7 +215,7 @@
                   .row.justify-content-center.mb-3
                     .col-auto
                       .py-2.px-3
-                        p.mb-0 ¿Qué se quiere evaluar? 
+                        p.mb-0 ¿Qué se quiere evaluar?.
           
           .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="zoom-in")
             .tarjeta-avatar
@@ -225,7 +225,7 @@
                   .row.justify-content-center.mb-3
                     .col-auto
                       .py-2.px-3
-                        p.mb-0 ¿Qué tipo de información o datos se esperan obtener como resultado?
+                        p.mb-0 ¿Qué tipo de información o datos se esperan obtener como resultado?.
           
           .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="zoom-in")
             .tarjeta-avatar
@@ -235,7 +235,7 @@
                   .row.justify-content-center.mb-3
                     .col-auto
                       .py-2.px-3
-                        p.mb-0 ¿Qué nivel de profundidad y precisión se requiere en la información?
+                        p.mb-0 ¿Qué nivel de profundidad y precisión se requiere en la información?.
 
           .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="zoom-in")
             .tarjeta-avatar
@@ -245,7 +245,7 @@
                   .row.justify-content-center.mb-3
                     .col-auto
                       .py-2.px-3
-                        p.mb-0 ¿Cómo se utilizarán los resultados para la toma de decisiones?
+                        p.mb-0 ¿Cómo se utilizarán los resultados para la toma de decisiones?.
         
         .row.justify-content-center.mb-5
           .col-xl-10
@@ -281,7 +281,7 @@
               .col-8
                 img(src='@/assets/curso/temas/img136.svg' style="max-width: 90px").m-auto
             h4.mb-3.estilo-text Fichas de indagación
-            p.mb-0Sistematizar información técnica sobre condiciones de infraestructura, indicadores sanitarios o productivos.
+            p.mb-0Sistematizar Información técnica sobre condiciones de infraestructura, indicadores sanitarios o productivos.
           .tarjeta.color-acento-botones.p-4
             .row.justify-content-center.mb-3
               .col-8

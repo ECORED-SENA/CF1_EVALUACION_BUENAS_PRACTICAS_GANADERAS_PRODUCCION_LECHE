@@ -44,10 +44,10 @@
       .row(titulo="Enfermedades transmisibles y zoonosis").ajuste-cajaAcordion
         p.mb-4  Incluyen aquellas patologías que pueden ser transmitidas de los animales a los humanos o afectar gravemente la salud del hato. Su control es esencial para proteger la salud pública y la calidad del producto.
         <ul class="fa-ul estilo___ul_1 mb-0">
-          <li class="mb-3"><span class="fa-li"><i class="fas fa-fill-drip color_i_1"></i></span><strong>Brucelosis bovina</strong>: Transmisible al humano por consumo de leche cruda. Requiere vacunación obligatoria, diagnóstico serológico y eliminación de positivos.</li>
-          <li class="mb-3"><span class="fa-li"><i class="fas fa-fill-drip color_i_1"></i></span><strong>Tuberculosis bovina</strong>: Riesgo crónico que compromete la inocuidad y el acceso a mercados especializados.</li>
-          <li class="mb-3"><span class="fa-li"><i class="fas fa-fill-drip color_i_1"></i></span><strong>Mastitis clínica y subclínica</strong>: Reduce la calidad de la leche. Se controla mediante monitoreo <em>(California Mastitis Test - CMT)</em> y reducción del recuento de células somáticas.</li>
-          <li class="mb-0"><span class="fa-li"><i class="fas fa-fill-drip color_i_1"></i></span><strong>Enfermedades respiratorias y digestivas</strong>: Afectan la productividad y bienestar del hato, especialmente en terneras.</li>
+          <li class="mb-3"><span class="fa-li"><i class="fas fa-fill-drip color_i_1"></i></span><strong>Brucelosis bovina</strong>: transmisible al humano por consumo de leche cruda. Requiere vacunación obligatoria, diagnóstico serológico y eliminación de positivos.</li>
+          <li class="mb-3"><span class="fa-li"><i class="fas fa-fill-drip color_i_1"></i></span><strong>Tuberculosis bovina</strong>: riesgo crónico que compromete la inocuidad y el acceso a mercados especializados.</li>
+          <li class="mb-3"><span class="fa-li"><i class="fas fa-fill-drip color_i_1"></i></span><strong>Mastitis clínica y subclínica</strong>: reduce la calidad de la leche. Se controla mediante monitoreo <em>(California Mastitis Test - CMT)</em> y reducción del recuento de células somáticas.</li>
+          <li class="mb-0"><span class="fa-li"><i class="fas fa-fill-drip color_i_1"></i></span><strong>Enfermedades respiratorias y digestivas</strong>: afectan la productividad y bienestar del hato, especialmente en terneras.</li>
         </ul>
       .row(titulo="Resistencia antimicrobiana (RAM)").ajuste-cajaAcordion
         p.mb-3  Es uno de los principales desafíos para la salud pública a nivel mundial. Resulta del uso incorrecto de antibióticos y puede generar residuos en los productos animales. Las BPG exigen prescripción veterinaria y cumplimiento del tiempo de retiro para evitar este problema.
@@ -121,7 +121,7 @@
             figure.d-none.d-xl-block
               img(src='@/assets/curso/temas/img48.jpg', alt="" style="max-width: 500px").m-auto
           .col-xl
-            p.mb-0 El <strong>Instituto Colombiano Agropecuario (ICA)</strong> lidera programas nacionales dirigidos a la prevención, vigilancia y eliminación de estas enfermedades, los cuales deben ser adoptados obligatoriamente por los predios certificados o en proceso de certificación en BPG Leche.
+            p.mb-0 El <strong>Instituto Colombiano Agropecuario (ICA)</strong> lidera programas nacionales dirigidos a la prevención, vigilancia y eliminación de estas enfermedades, los cuales deben ser adoptados obligatoriamente por los predios certificados o en proceso de certificación en BPG leche.
     
     p.mb-5 Las principales enfermedades de control oficial en bovinos lecheros, sus medidas obligatorias y riesgos asociados, se detallan en la siguiente tabla:
 
@@ -218,8 +218,8 @@
             
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
-                h4 Encefalopatía Espongiforme Bovina (EEB)
-                p.mb-0 Enfermedad neurológica degenerativa, progresiva, transmisible y mortal en bovinos adultos. Tiene un largo periodo de incubación (4 a 6 años) y está causada por un prión, una proteína infecciosa. Forma parte del grupo de las <em>Encefalopatías Espongiformes Transmisibles (EETs)</em>, que afectan tanto a animales como a humanos, generando degeneración del sistema nervioso central. Está asociada a restricciones estrictas en el comercio internacional.
+                h4 Encefalopatía espongiforme bovina (EEB)
+                p.mb-0 Enfermedad neurológica degenerativa, progresiva, transmisible y mortal en bovinos adultos. Tiene un largo periodo de incubación (4 a 6 años) y está causada por un prión, una proteína infecciosa. Forma parte del grupo de las encefalopatías espongiformes transmisibles (EETs), que afectan tanto a animales como a humanos, generando degeneración del sistema nervioso central. Está asociada a restricciones estrictas en el comercio internacional.
               .col-xl-6
                 figure.d-none.d-xl-block
                   img(src='@/assets/curso/temas/img52.png', alt='' style="max-width: 500px").m-auto
@@ -243,7 +243,7 @@
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Brucelosis bovina
-                p.mb-0 Enfermedad infecto-contagiosa también conocida como aborto infeccioso. Afecta principalmente a bovinos adultos y puede transmitirse a otras especies. Es causada por <em>Brucella abortus</em> y constituye una zoonosis de alto impacto. La transmisión al ser humano ocurre por contacto con fluidos contaminados o consumo de leche cruda. Su control está regulado por el ICA e incluye vacunación, diagnóstico serológico y restricciones sanitarias.
+                p.mb-0 Enfermedad infectocontagiosa también conocida como aborto infeccioso. Afecta principalmente a bovinos adultos y puede transmitirse a otras especies. Es causada por <em>Brucella abortus</em> y constituye una zoonosis de alto impacto. La transmisión al ser humano ocurre por contacto con fluidos contaminados o consumo de leche cruda. Su control está regulado por el ICA e incluye vacunación, diagnóstico serológico y restricciones sanitarias.
               .col-xl-6
                 figure.d-none.d-xl-block
                   img(src='@/assets/curso/temas/img55.png', alt='' style="max-width: 500px").m-auto

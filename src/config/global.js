@@ -376,7 +376,7 @@ export default {
     {
       termino: 'Evaluación',
       significado:
-        'análisis, lo más sistemático y objetivo posible, de un proyecto en curso o ya terminado, de su formulación, ejecución y resultados. el propósito es determinar el cumplimiento de los objetivos y las prestaciones del proyecto (pertinencia, eficiencia, eficacia, impacto y sostenibilidad).',
+        'análisis, lo más sistemático y objetivo posible, de un proyecto en curso o ya terminado, de su formulación, ejecución y resultados. El propósito es determinar el cumplimiento de los objetivos y las prestaciones del proyecto (pertinencia, eficiencia, eficacia, impacto y sostenibilidad).',
     },
     {
       termino: 'Impacto',
@@ -386,7 +386,7 @@ export default {
     {
       termino: 'Indicadores',
       significado:
-        'son señales concretas que se pueden medir. son el reflejo de que algo ha ocurrido. por ejemplo, un aumento del número de estudiantes aprobados es un indicador de la mejora de la cultura de enseñanza y aprendizaje. el medio de verificación (la prueba) es la lista oficial de aprobados.',
+        'son señales concretas que se pueden medir. Son el reflejo de que algo ha ocurrido. Por ejemplo, un aumento del número de estudiantes aprobados es un indicador de la mejora de la cultura de enseñanza y aprendizaje. El medio de verificación (la prueba) es la lista oficial de aprobados.',
     },
     {
       termino: 'Inocuidad de los alimentos',
@@ -396,17 +396,17 @@ export default {
     {
       termino: 'Métodos cualitativos',
       significado:
-        'pertenecen a la tradición de las ciencias sociales y se basan en la observación de las personas en su mismo territorio, en la interacción con ellas en su propio idioma, posiblemente en sus propios términos. enfatizan la comprensión de la manera como las personas estudiadas construyen la realidad. la mayoría de estudios cualitativos cuentan con análisis descriptivos más que estadísticos.',
+        'pertenecen a la tradición de las ciencias sociales y se basan en la observación de las personas en su mismo territorio, en la interacción con ellas en su propio idioma, posiblemente en sus propios términos. Enfatizan la comprensión de la manera como las personas estudiadas construyen la realidad. La mayoría de estudios cualitativos cuentan con análisis descriptivos más que estadísticos.',
     },
     {
       termino: 'Métodos cuantitativos',
       significado:
-        'se apoyan en instrumentos estructurados para recolectar información estandarizada de una muestra cuidadosamente seleccionada de individuos, unidades o eventos. la información es analizada a través de una comparación estadística entre grupos o de un análisis multivariado.',
+        'se apoyan en instrumentos estructurados para recolectar información estandarizada de una muestra cuidadosamente seleccionada de individuos, unidades o eventos. La información es analizada a través de una comparación estadística entre grupos o de un análisis multivariado.',
     },
     {
       termino: 'Monitoreo o seguimiento',
       significado:
-        'actividad sistemática y permanente de recolección y análisis de datos para proveer, al equipo de gestión y a las principales partes interesadas, indicaciones sobre el avance y el logro de los objetivos, así como sobre la utilización de los fondos disponibles. es muy importante para retroalimentar la gestión y la toma de decisiones.',
+        'actividad sistemática y permanente de recolección y análisis de datos para proveer, al equipo de gestión y a las principales partes interesadas, indicaciones sobre el avance y el logro de los objetivos, así como sobre la utilización de los fondos disponibles. Es muy importante para retroalimentar la gestión y la toma de decisiones.',
     },
     {
       termino: 'Trazabilidad',
