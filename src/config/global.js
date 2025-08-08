@@ -319,14 +319,6 @@ export default {
     {
       tema: 'Marco legal en la implementación de BPG en la producción de leche',
       referencia:
-        'Instituto Colombiano Agropecuario – ICA. (2022). Resolución 67449 de 2022. Por la cual se establecen los requisitos sanitarios para la producción primaria de leche cruda destinada al consumo humano.',
-      tipo: 'Normativa',
-      link:
-        'https://www.ica.gov.co/getattachment/6b7f82ab-bccd-4bf5-a5c6-5bfff35b772b/2020R67449.aspx ',
-    },
-    {
-      tema: 'Marco legal en la implementación de BPG en la producción de leche',
-      referencia:
         'Ministerio de Salud y Protección Social. (2013). Resolución 1382 de 2013. Por la cual se establecen los límites máximos para residuos de medicamentos veterinarios en alimentos de origen animal destinados al consumo humano.',
       tipo: 'Normativa',
       link:
@@ -487,9 +479,10 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Eliana Audrey Manchola Pérez',
+          cargo: 'Experta temática',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Paola Alexandra Moya Peralta',
@@ -515,9 +508,34 @@ export default {
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Alejandro Delgado Acosta',
+          cargo: 'Intérprete lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Cristhian Giovanni Gordillo Segura',
+          cargo: 'Intérprete lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Daniela Muñoz Bedoya',
           cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Carlos Eduardo	Garavito Parada',
+          cargo: 'Animador y productor audiovisual',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Andrés Felipe Guevara Ariza',
+          cargo: 'Locución',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
