@@ -168,7 +168,7 @@
               .col-8
                 img(src='@/assets/curso/temas/img94.svg' style="max-width: 90px").m-auto
             h4.mb-3.estilo-text Contaminación de leche
-            p.mb-0 Suspender ordeño, tomar muestras para análisis, eliminar leche contaminada, rastrear la causa.
+            p.mb-0 Suspender el ordeño, tomar muestras para análisis, eliminar la leche contaminada, rastrear la causa.
           .tarjeta.color-acento-botones.p-4
             .row.justify-content-center.mb-3
               .col-8
@@ -458,7 +458,7 @@
       .col-xl-10
         .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
           h5 Tabla 3.
-          span los aplicados de acciones correctivas en predios lecheros
+          span Ejemplos aplicados de acciones correctivas en predios lecheros
         .tabla-a(data-aos="zoom-in")
           table
             thead

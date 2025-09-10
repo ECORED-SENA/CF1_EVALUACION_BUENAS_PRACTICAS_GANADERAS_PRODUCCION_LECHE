@@ -215,7 +215,7 @@
                   .row.justify-content-center.mb-3
                     .col-auto
                       .py-2.px-3
-                        p.mb-0 ¿Qué se quiere evaluar?.
+                        p.mb-0 ¿Qué se quiere evaluar?
           
           .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="zoom-in")
             .tarjeta-avatar
@@ -225,7 +225,7 @@
                   .row.justify-content-center.mb-3
                     .col-auto
                       .py-2.px-3
-                        p.mb-0 ¿Qué tipo de información o datos se esperan obtener como resultado?.
+                        p.mb-0 ¿Qué tipo de información o datos se esperan obtener como resultado?
           
           .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="zoom-in")
             .tarjeta-avatar
@@ -235,7 +235,7 @@
                   .row.justify-content-center.mb-3
                     .col-auto
                       .py-2.px-3
-                        p.mb-0 ¿Qué nivel de profundidad y precisión se requiere en la información?.
+                        p.mb-0 ¿Qué nivel de profundidad y precisión se requiere en la información?
 
           .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="zoom-in")
             .tarjeta-avatar
@@ -245,7 +245,7 @@
                   .row.justify-content-center.mb-3
                     .col-auto
                       .py-2.px-3
-                        p.mb-0 ¿Cómo se utilizarán los resultados para la toma de decisiones?.
+                        p.mb-0 ¿Cómo se utilizarán los resultados para la toma de decisiones?
         
         .row.justify-content-center.mb-5
           .col-xl-10

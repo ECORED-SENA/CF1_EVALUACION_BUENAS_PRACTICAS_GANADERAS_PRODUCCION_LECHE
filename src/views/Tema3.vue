@@ -49,7 +49,7 @@
           <li class="mb-3"><span class="fa-li"><i class="fas fa-fill-drip color_i_1"></i></span><strong>Mastitis clínica y subclínica</strong>: reduce la calidad de la leche. Se controla mediante monitoreo <em>(California Mastitis Test - CMT)</em> y reducción del recuento de células somáticas.</li>
           <li class="mb-0"><span class="fa-li"><i class="fas fa-fill-drip color_i_1"></i></span><strong>Enfermedades respiratorias y digestivas</strong>: afectan la productividad y bienestar del hato, especialmente en terneras.</li>
         </ul>
-      .row(titulo="Resistencia antimicrobiana (RAM)").ajuste-cajaAcordion
+      .row(titulo="Resistencia a los antimicrobianos (RAM)").ajuste-cajaAcordion
         p.mb-3  Es uno de los principales desafíos para la salud pública a nivel mundial. Resulta del uso incorrecto de antibióticos y puede generar residuos en los productos animales. Las BPG exigen prescripción veterinaria y cumplimiento del tiempo de retiro para evitar este problema.
       .row(titulo="Contaminación química o física").ajuste-cajaAcordion
         p.mb-3 Este tipo de contaminación puede derivarse del uso inapropiado de sustancias en el entorno productivo, comprometiendo la inocuidad y aceptabilidad de los productos lácteos. Puede llevar al rechazo del producto en plantas procesadoras.
@@ -219,7 +219,7 @@
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Encefalopatía espongiforme bovina (EEB)
-                p.mb-0 Enfermedad neurológica degenerativa, progresiva, transmisible y mortal en bovinos adultos. Tiene un largo periodo de incubación (4 a 6 años) y está causada por un prión, una proteína infecciosa. Forma parte del grupo de las encefalopatías espongiformes transmisibles (EETs), que afectan tanto a animales como a humanos, generando degeneración del sistema nervioso central. Está asociada a restricciones estrictas en el comercio internacional.
+                p.mb-0 Enfermedad neurológica degenerativa, progresiva, transmisible y mortal en bovinos adultos. Tiene un largo periodo de incubación (4 a 6 años) y está causada por un prion, una proteína infecciosa. Forma parte del grupo de las encefalopatías espongiformes transmisibles (EETs), que afectan tanto a animales como a humanos, generando degeneración del sistema nervioso central. Está asociada a restricciones estrictas en el comercio internacional.
               .col-xl-6
                 figure.d-none.d-xl-block
                   img(src='@/assets/curso/temas/img52.png', alt='' style="max-width: 500px").m-auto
@@ -235,7 +235,7 @@
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Estomatitis vesicular
-                p.mb-0 Enfermedad viral que afecta a bovinos, equinos, porcinos, ovinos, caprinos y también al ser humano. Está causada por un virus del género <em>Vesiculovirus</em> (familia <em>Rhabdoviridae</em>) y presenta varios serotipos, principalmente <em>New Jersey</em> e <em>Indiana</em>, este último con tres subtipos conocidos. Su presentación clínica es similar a la fiebre aftosa, lo que complica el diagnóstico diferencial.
+                p.mb-0 Enfermedad viral que afecta a bovinos, equinos, porcinos, ovinos, caprinos y también al ser humano. Está causada por un virus del género <em>Vesiculovirus</em> (familia <em>Rhabdoviridae</em>) y presenta varios serotipos, principalmente New Jersey e Indiana, este último con tres subtipos conocidos. Su presentación clínica es similar a la fiebre aftosa, lo que complica el diagnóstico diferencial.
               .col-xl-6
                 figure.d-none.d-xl-block
                   img(src='@/assets/curso/temas/img54.png', alt='' style="max-width: 500px").m-auto

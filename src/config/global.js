@@ -263,7 +263,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/XXXXXXXX_CF01_DU.pdf',
+        download: 'downloads/72312185_CF01_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -338,7 +338,7 @@ export default {
         'Instituto Colombiano Agropecuario – ICA. (s.f.). Manual de Buenas Prácticas Ganaderas para producción lechera.',
       tipo: 'Documento técnico',
       link:
-        'https://www.ica.gov.co/getattachment/Areas/Pecuaria/Servicios/Buenas-Practicas-Ganaderas-BPG/Manual-Buenas-Practicas-Ganaderas-Produccion-Leche.pdf',
+        'https://www.ica.gov.co/getattachment/6b7f82ab-bccd-4bf5-a5c6-5bfff35b772b/2020R67449.aspx',
     },
     {
       tema: 'Marco legal en la implementación de BPG en la producción de leche',
