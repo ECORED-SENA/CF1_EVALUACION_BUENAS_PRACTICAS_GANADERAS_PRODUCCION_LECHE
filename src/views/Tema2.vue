@@ -41,7 +41,7 @@
     figure(data-aos="zoom-in")
       .video.mb-1
         iframe(width="560" height="315" src="https://www.youtube.com/embed/J3QiAnpxnNU" title="Elementos clave del plan de implementación de buenas pràcticas ganaderas en la producción de leche" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption(data-aos="zoom-in") <strong>Video</strong>: Elementos clave del plan de implementación de buenas pràcticas ganaderas en la producción de leche.
+      figcaption(data-aos="zoom-in") <strong>Video</strong>: Elementos clave del plan de implementación de buenas prácticas ganaderas en la producción de leche.
 
     <!-- BLOQUE 2 -->
     Separador
